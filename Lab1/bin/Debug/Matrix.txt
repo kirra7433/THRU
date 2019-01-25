@@ -1,0 +1,3 @@
+admin|obj,Own,|obj2,|obj3,Own,|:
+user1|obj,Write,|obj2,|obj3,|:
+user2|obj,Read,Write,Own,|obj2,|obj3,|:

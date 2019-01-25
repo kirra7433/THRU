@@ -1,0 +1,3 @@
+admin|obj1.exe,Own,|obj2.doc,|obj3.doc,Own,|obj4.jpg,|
+user1|obj1.exe,Write,|obj2.jpg,|obj3.doc,|obj4.doc,Read,|
+user2|obj1.exe,Read,Write,Own,|obj2.doc,|obj3.jpg,|obj4.doc,|

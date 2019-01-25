@@ -1,0 +1,20 @@
+D:\Учеба\МБКС\Lab1\Lab1\obj\Debug\HRU.csprojResolveAssemblyReference.cache
+D:\Учеба\МБКС\Lab1\Lab1\obj\Debug\HRU.csproj.CoreCompileInputs.cache
+D:\Учеба\МБКС\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Учеба\МБКС\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Учеба\МБКС\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Учеба\МБКС\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Учеба\МБКС\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\Загрузки\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Загрузки\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Загрузки\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Загрузки\Lab1\Lab1\obj\Debug\HRU.csprojResolveAssemblyReference.cache
+E:\Загрузки\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Загрузки\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\Lab1\Lab1\obj\Debug\HRU.csprojResolveAssemblyReference.cache
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\Lab1\Lab1\obj\Debug\HRU.csproj.CoreCompileInputs.cache
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\OneDrive - Оренбургский государственный университет\9 семестр\МБКС\Lab1\Lab1\obj\Debug\Lab1.pdb
